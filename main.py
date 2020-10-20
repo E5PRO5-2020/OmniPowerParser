@@ -41,7 +41,6 @@ def test0():
     # Demo of loading object
     my_obj = json.loads(jsdump)
     print(my_obj['Measurements'])
-    print("Din mor")
 
 def test1():
     """
